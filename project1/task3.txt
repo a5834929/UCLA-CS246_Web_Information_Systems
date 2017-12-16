@@ -1,0 +1,10 @@
+{ "query": "apple", "description": "all pages related to apple", "pages": ["https://simple.wikipedia.org/wiki/Apple", "https://simple.wikipedia.org/wiki/Apple_Macintosh", "https://simple.wikipedia.org/wiki/Adam%27s_apple", "https://simple.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference"]}  
+{ "query": "hello", "description": "all pages related to hello", "pages": ["https://simple.wikipedia.org/wiki/Hello_Kitty", "https://simple.wikipedia.org/wiki/Hello_world_program"]}  
+{ "query": "piano", "description": "all pages related to piano", "pages": ["https://simple.wikipedia.org/wiki/Piano_duet", "https://simple.wikipedia.org/wiki/Piano_trio"]}  
+{ "query": "christmas", "description": "all pages related to christmas", "pages": ["https://simple.wikipedia.org/wiki/The_Christmas_Song", "https://simple.wikipedia.org/wiki/Last_Christmas"]}  
+{ "query": "geometry", "description": "all pages related to geometry", "pages": ["https://simple.wikipedia.org/wiki/Pyramid_(geometry)", "https://simple.wikipedia.org/wiki/Spherical_geometry"]}  
+{ "query": "university", "description": "all pages related to university", "pages": ["https://simple.wikipedia.org/wiki/National_Tsing_Hua_University", "https://simple.wikipedia.org/wiki/National_Taiwan_University"]}  
+{ "query": "triceratops", "description": "all pages related to triceratops", "pages": ["https://simple.wikipedia.org/wiki/Triceratops"]}  
+{ "query": "wasp", "description": "all pages related to wasp", "pages": ["https://simple.wikipedia.org/wiki/Wasp", "https://simple.wikipedia.org/wiki/WASP-12b"]}  
+{ "query": "magnesium", "description": "all pages related to magnesium", "pages": ["https://simple.wikipedia.org/wiki/Magnesium_sulfate", "https://simple.wikipedia.org/wiki/Magnesium"]}  
+{ "query": "thanksgiving", "description": "all pages related to thanksgiving", "pages": ["https://simple.wikipedia.org/wiki/Thanksgiving_(United_States)", "https://simple.wikipedia.org/wiki/Thanksgiving"]}  
